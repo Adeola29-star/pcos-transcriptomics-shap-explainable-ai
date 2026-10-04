@@ -93,7 +93,7 @@ pcos-transcriptomics-shap-explainable-ai/
 │
 ├── shap_summary_plot.png
 ├── shap_waterfall_P16.png
-└── networkanalyst_no_result.png
+└── network_analyst_no_result.png
 ```
 
 Raw GEO data are not included in the repository. The dataset can be obtained from NCBI GEO using accession GSE138518.
