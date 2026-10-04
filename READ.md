@@ -52,7 +52,7 @@ Sample P16 (a true PCOS sample) was explained confidently and correctly by the f
 
 Both **STRING** (0 observed interactions, 0 expected, p = 1) and **NetworkAnalyst** (no network found) independently found **no documented or predicted interactions** among the 8 named genes identified by SHAP (FPR2, VNN3, E2F8, CCL25, USH2A, P3H3, AVPR1B, SLC35F1).
 
-![NetworkAnalyst result](networkanalyst_no_result.png)
+![NetworkAnalyst result](network_analyst_no_result.png)
 
 ## Limitations
 
